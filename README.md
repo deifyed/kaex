@@ -1,3 +1,5 @@
+Project continued [here](https://github.com/oslokommune/kaex) in favor of Go Lang
+
 # Kaex
 
 ## Installation
